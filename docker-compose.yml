@@ -1,0 +1,14 @@
+version: "3.2"
+services:
+  api:
+    image: fastify-api
+    container_name: fastify-api
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - 8080:8080
+
+    restart: on-failure
