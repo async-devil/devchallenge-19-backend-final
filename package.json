@@ -1,5 +1,5 @@
 {
-  "name": "fastify-ts-template",
+  "name": "devchallenge-19-backend-final",
   "version": "1.0.0",
   "license": "MIT",
   "main": "./dist/index.js",
@@ -7,16 +7,16 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/async-devil/fastify-ts-template.git"
+    "url": "git+https://github.com/async-devil/devchallenge-19-backend-final.git"
   },
   "bugs": {
-    "url": "https://github.com/async-devil/fastify-ts-template/issues"
+    "url": "https://github.com/async-devil/devchallenge-19-backend-final/issues"
   },
   "keywords": [
-    "Fastify",
-    "Typescript",
-    "Template",
-    "Docker"
+    "fastify",
+    "typescript",
+    "docker",
+    "image-processing"
   ],
   "scripts": {
     "build": "tsc --project tsconfig.build.json",
@@ -31,8 +31,10 @@
     "@sinclair/typebox": "^0.24.47",
     "@types/http-errors": "^1.8.2",
     "@types/node": "^18.11.3",
+    "@types/pngjs": "^6.0.1",
     "fastify": "^4.9.2",
     "http-errors": "^2.0.0",
+    "pngjs": "^6.0.0",
     "typescript": "^4.8.4"
   },
   "devDependencies": {
