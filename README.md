@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/bc8fa60c-fa34-4507-b70f-24bdba32a74d/project/9fe78dde-3e8f-462f-8327-694b0d643497.svg)](https://wakatime.com/badge/user/bc8fa60c-fa34-4507-b70f-24bdba32a74d/project/9fe78dde-3e8f-462f-8327-694b0d643497)
+
 # DEV Challenge XIX backend final nomination solution
 
 _28.10.22 11:30 - 28.10.22 18:30_
